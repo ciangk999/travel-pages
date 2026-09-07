@@ -3,7 +3,7 @@
 		fiji: {
 			title: 'Fiji',
 			place: 'South Pacific / 2024',
-			description: 'Island light, warm water, and fifteen frames from the South Pacific.',
+			description: 'Island light, warm water, and sixteen frames from the South Pacific.',
 			photos: [
 				['images/fiji/IMG_1176.JPEG', 'Island shoreline'],
 				['images/fiji/IMG_1177.JPEG', 'Blue water and open sky'],
@@ -19,7 +19,8 @@
 				['images/fiji/IMG_1188.JPEG', 'Walking toward the sea'],
 				['images/fiji/IMG_1189.JPEG', 'The shoreline at dusk'],
 				['images/fiji/IMG_1191.JPEG', 'A final look back'],
-				['images/fiji/IMG_1192.JPEG', 'Fiji, in full light']
+				['images/fiji/IMG_1192.JPEG', 'Fiji, in full light'],
+				['images/fiji/IMG_1193.JPEG', 'The island after rain']
 			]
 		},
 		'new-zealand': {
